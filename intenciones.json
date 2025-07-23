@@ -1,0 +1,38 @@
+{
+    "lunes": [
+        "clases del lunes",
+        "que clases tengo el dia lunes",
+        "lunes"
+    ],
+    "martes": [
+        "género Martes",
+        "clases del jueves",
+        "martes"
+    ],
+    "miercoles": [
+        "clases del miercoles",
+        "que clases tengo el dia miercoles",
+        "miercoles"
+    ],
+    "jueves": [
+        "clases del jueves",
+        "jueves",
+        "que materias me tocan el jueves"
+    ],
+    "viernes": [
+        "viernes",
+        "clases del viernes"
+    ],
+    "sabado": [
+        "clases del sabado",
+        "sabado"
+    ],
+    "tareas": [
+        "que tareas tengo",
+        "tareas"
+    ],
+    "horario": [
+        "cual es mi horario",
+        "horario"
+    ]
+}
