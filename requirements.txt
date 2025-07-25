@@ -2,3 +2,5 @@ nltk
 scikit-learn
 flask
 gunicorn
+twilio
+
